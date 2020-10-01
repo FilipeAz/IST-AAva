@@ -8,4 +8,4 @@
 
 [AAva](https://fenix.tecnico.ulisboa.pt/disciplinas/AAva111326/2017-2018/2-semestre)
 
-Projects Grade - 14/20
+Project Grade - 14/20
